@@ -1,0 +1,21 @@
+*{
+  font-family: Arial, Helvetica, sans-serif;
+}
+body{
+  color: white;
+  
+}
+h1{
+  color: greenyellow;
+  
+}
+ul{
+  color: lightyellow;
+  
+}
+li{
+  color: aqua;
+}
+footer{
+  color: yellow;
+}
